@@ -1,3 +1,3 @@
-# JSD4-Class
+# JSD4-HW1
 
-This is for HW or Class work of JSD4 Bootcamp
+HW1 of JSD4 Bootcamp
